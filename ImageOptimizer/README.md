@@ -4,6 +4,8 @@
 - Optimize the image using slider
 - Save it on desktop (customize the code in main.py to change the path)
 
+![optimize][optimize.gif]
+
 # File Explanations
 
 - main.py - The main file which includes the code
