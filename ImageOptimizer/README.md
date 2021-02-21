@@ -4,7 +4,7 @@
 - Optimize the image using slider
 - Save it on desktop (customize the code in main.py to change the path)
 
-![optimize][optimize.gif]
+![](optimize.gif)
 
 # File Explanations
 
