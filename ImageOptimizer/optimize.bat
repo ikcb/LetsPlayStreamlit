@@ -1,2 +1,2 @@
-@py.exe path to your run.py  %*
+@py.exe PathToYour run.py  %*
 @pause
