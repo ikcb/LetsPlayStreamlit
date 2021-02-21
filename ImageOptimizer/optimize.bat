@@ -1,2 +1,2 @@
-@py.exe C:\Users\HP\Desktop\Python_Programs\ImageOptimize\run.py %*
+@py.exe path to your run.py  %*
 @pause
