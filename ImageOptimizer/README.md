@@ -1,6 +1,6 @@
 # Image Optimizer Using Pillow and Streamlit
 
-## This can be used to reduce the size of the image while retaining the quality or as per the convenience.
+## I use it to reduce the size of the image while retaining the quality or as per the convenience.
 
 - Upload image
 - Optimize the image using slider
