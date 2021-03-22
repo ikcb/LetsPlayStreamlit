@@ -1,6 +1,6 @@
 # LetsPlayStreamlit
 Streamlit -> https://docs.streamlit.io/en/stable/api.html#display-interactive-widgets
-Implementations of my ml/dl projects as a standalone web app using Streamlit. 
+Implementations of some ml/dl projects as a standalone web app using Streamlit. 
 - BioInformatics (DNA Count)
 - Classification (Iris Flower)
 - Classification (Penguin)
