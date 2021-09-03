@@ -10,3 +10,12 @@ Implementations of some ml/dl projects as a standalone web app using Streamlit.
 - Regression BioInformatics (Molecule Solubility)
 - S&P 500
 - Simple Stock Price
+
+## Dependencies
+
+`pip install streamlit`
+
+
+## Run
+In terminal (in direcotry),
+`streamlit run {file_name}.py`
